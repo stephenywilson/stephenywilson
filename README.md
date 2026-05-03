@@ -39,6 +39,16 @@ The open-source projects here are lightweight, transparent versions of tools and
 
 ---
 
+## Upcoming Open-Source Model
+
+Catalayer AI is preparing its first open-source model: **Catalayer AI Mini 500M**.
+
+This is a compact news-analysis model developed through Catalayer's own training pipeline and designed for financial news understanding, event interpretation, sentiment reasoning, and market-context analysis.
+
+The model is intended to be an independently controlled open-source release from Catalayer AI — not a wrapper around a third-party chatbot. Larger private models, proprietary datasets, and production intelligence systems will remain separate from the open-source release.
+
+---
+
 ## Open Source Direction
 
 I am building a focused collection of small, useful, polished open-source tools around:
