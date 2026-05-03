@@ -13,10 +13,10 @@ My open-source work is organized around two tracks: **AI market intelligence** a
 
 | Project | What it does |
 |---|---|
-| **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
-| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Benchmark foundation for evaluating whether AI models can convert financial news into structured market signals |
-| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner that executes News2SignalBench-style evaluations across models, providers, and prediction files |
-| **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
+| [MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer) | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
+| [News2SignalBench](https://github.com/stephenywilson/News2SignalBench) | Benchmark foundation for evaluating whether AI models can convert financial news into structured market signals |
+| [SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner) | Provider-agnostic CLI runner that executes News2SignalBench-style evaluations across models, providers, and prediction files |
+| [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox) | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
 
 ---
 
@@ -24,11 +24,11 @@ My open-source work is organized around two tracks: **AI market intelligence** a
 
 | Area | What I Build |
 |---|---|
-| **Market Intelligence** | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
-| **Financial News Reasoning** | Benchmarks, datasets, runners, and evaluation tools for converting financial news into structured signals |
-| **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, model evaluation, and decision-support interfaces |
-| **AI Coding Safety** | Guardrails, repo protection, audit reports, and workflow safety layers for AI coding agents |
-| **Workflow Automation** | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
+| Market Intelligence | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
+| Financial News Reasoning | Benchmarks, datasets, runners, and evaluation tools for converting financial news into structured signals |
+| AI Infrastructure | Local-first AI apps, bring-your-own-provider workflows, model evaluation, and decision-support interfaces |
+| AI Coding Safety | Guardrails, repo protection, audit reports, and workflow safety layers for AI coding agents |
+| Workflow Automation | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
 
 ---
 
