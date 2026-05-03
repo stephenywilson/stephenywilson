@@ -1,20 +1,18 @@
 # Stephen Y. Wilson
 
-Founder of **Catalayer** — building practical open-source AI tools for market intelligence, sourcing automation, and decision workflows.
+Founder of **Catalayer** — building practical open-source AI tools for market intelligence, sourcing automation, AI evaluation, and decision workflows.
 
-I focus on software that helps people turn noisy information into clearer research, faster workflows, and better operational decisions.
+I focus on software that helps people turn noisy information into clearer research, safer automation, faster workflows, and better operational decisions.
 
 ---
 
-## Currently Building
+## Featured Open Source Projects
 
-### [MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)
-
-Open-source AI market research console for US stocks.
-
-MarketLayer brings Catalayer-style news analysis, signal organization, watchlist research, and AI-assisted decision workflows into a lightweight open-source project.
-
-Designed for research and education only. It does not execute trades or provide financial advice.
+| Project | What it does |
+|---|---|
+| **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, based on Catalayer-style news, signals, watchlists, and decision workflows |
+| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for evaluating financial news-to-signal reasoning in AI models |
+| **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
 
 ---
 
@@ -23,7 +21,9 @@ Designed for research and education only. It does not execute trades or provide 
 | Area | What I Build |
 |---|---|
 | **Market Intelligence** | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
+| **AI Evaluation** | Benchmarks and datasets for testing financial news understanding, event reasoning, and signal quality |
 | **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, provider configuration, and decision-support interfaces |
+| **AI Coding Safety** | Guardrails, repo protection, and workflow safety layers for AI coding agents |
 | **Sourcing Automation** | Supplier comparison, RFQ workflows, landed cost analysis, procurement templates, and vendor decision systems |
 | **Workflow Tools** | Chrome extensions, freelancer tools, operator dashboards, and lightweight software for real business use cases |
 
@@ -35,7 +35,7 @@ Designed for research and education only. It does not execute trades or provide 
 
 The open-source projects here are lightweight, transparent versions of tools and ideas connected to the broader Catalayer ecosystem.
 
-**Catalayer AI** is the reasoning and analysis layer behind the platform, designed to support structured analysis, market context, and workflow intelligence.
+**Catalayer AI** is the reasoning and analysis layer behind the platform, designed to support structured analysis, financial news understanding, market context, and workflow intelligence.
 
 ---
 
@@ -54,9 +54,11 @@ The model is intended to be an independently controlled open-source release from
 I am building a focused collection of small, useful, polished open-source tools around:
 
 - AI-assisted market research
+- financial news reasoning and evaluation
 - sourcing and procurement workflows
 - browser-based automation
 - local-first AI applications
+- AI coding agent safety
 - practical decision systems for independent builders and small teams
 
 The goal is simple: tools that solve real problems, not demos that only look good.
