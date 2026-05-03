@@ -1,6 +1,6 @@
 # Stephen Y. Wilson
 
-Founder of **Catalayer** — building practical open-source AI tools for market intelligence, sourcing automation, AI evaluation, and decision workflows.
+Founder of **Catalayer** — building practical open-source AI tools for market intelligence, financial news reasoning, AI evaluation, sourcing automation, and decision workflows.
 
 I focus on software that helps people turn noisy information into clearer research, safer automation, faster workflows, and better operational decisions.
 
@@ -12,6 +12,7 @@ I focus on software that helps people turn noisy information into clearer resear
 |---|---|
 | **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, based on Catalayer-style news, signals, watchlists, and decision workflows |
 | **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for evaluating financial news-to-signal reasoning in AI models |
+| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner for financial news-to-signal model evaluation |
 | **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
 
 ---
@@ -21,7 +22,8 @@ I focus on software that helps people turn noisy information into clearer resear
 | Area | What I Build |
 |---|---|
 | **Market Intelligence** | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
-| **AI Evaluation** | Benchmarks and datasets for testing financial news understanding, event reasoning, and signal quality |
+| **Financial News Reasoning** | Tools and benchmarks for turning financial news into structured events, sentiment, and market-relevant signals |
+| **AI Evaluation** | Benchmarks, datasets, and runners for testing model behavior, signal quality, and reasoning consistency |
 | **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, provider configuration, and decision-support interfaces |
 | **AI Coding Safety** | Guardrails, repo protection, and workflow safety layers for AI coding agents |
 | **Sourcing Automation** | Supplier comparison, RFQ workflows, landed cost analysis, procurement templates, and vendor decision systems |
@@ -55,6 +57,7 @@ I am building a focused collection of small, useful, polished open-source tools 
 
 - AI-assisted market research
 - financial news reasoning and evaluation
+- provider-agnostic model evaluation
 - sourcing and procurement workflows
 - browser-based automation
 - local-first AI applications
