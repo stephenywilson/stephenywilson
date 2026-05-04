@@ -27,20 +27,6 @@ My open-source work is organized around two main tracks:
 
 ---
 
-## Selected Projects
-
-| Project | What it does |
-|---|---|
-| **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, with news, signals, watchlists, and decision workflows |
-| **[News2SignalLab](https://github.com/stephenywilson/News2SignalLab)** | Complete local lab for financial news-to-signal evaluation, reports, static leaderboards, and synthetic market-news streams |
-| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for evaluating financial news-to-signal reasoning in AI models |
-| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner for financial news-to-signal model evaluation, reports, and static leaderboards |
-| **[MCP-Doctor](https://github.com/stephenywilson/MCP-Doctor)** | Diagnose and fix broken MCP servers for Claude Desktop, Cursor, VS Code, Cline, and other AI tools |
-| **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety, evaluation, and workflow layer for Claude Code, Codex, Cursor, and other AI coding agents |
-| **[AgentSkillKit](https://github.com/stephenywilson/AgentSkillKit)** | Reusable task packs and workflow skills for Claude Code, Codex, Cursor, and AI coding agents |
-
----
-
 ## Focus Areas
 
 | Area | What I Build |
