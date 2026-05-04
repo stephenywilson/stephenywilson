@@ -18,7 +18,7 @@ My open-source work is organized around two tracks: **AI market intelligence** a
 | [News2SignalBench](https://github.com/stephenywilson/News2SignalBench) | Benchmark foundation for evaluating whether AI models can convert financial news into structured market signals |
 | [SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner) | Provider-agnostic CLI runner that executes News2SignalBench-style evaluations and exports reports and static leaderboards |
 | [News2SignalLab](https://github.com/stephenywilson/News2SignalLab) | Complete local-first lab for financial news-to-signal evaluation, reports, static leaderboards, and synthetic streams |
-| [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox) | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
+| [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox) | Lightweight safety and evaluation layer for Claude Code, Codex, Cursor, and other AI coding agents |
 | [AgentSkillKit](https://github.com/stephenywilson/AgentSkillKit) | Reusable task packs and workflow skills for Claude Code, Codex, Cursor, and AI coding agents |
 
 ---
@@ -43,7 +43,7 @@ The News2Signal projects are designed to evaluate whether AI systems can turn fi
 | **Financial News Reasoning** | Tools and benchmarks for turning financial news into structured events, sentiment, and market-relevant signals |
 | **AI Evaluation** | Benchmarks, datasets, runners, reports, and leaderboards for testing model behavior and signal quality |
 | **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, provider configuration, and decision-support interfaces |
-| **AI Coding Safety** | Guardrails, repo protection, audit reports, reusable agent skills, and workflow safety layers for AI coding agents |
+| **AI Coding Safety** | Guardrails, repo protection, audit reports, task benchmarks, reusable agent skills, and workflow safety layers for AI coding agents |
 | **Sourcing Automation** | Supplier comparison, RFQ workflows, landed cost analysis, procurement templates, and vendor decision systems |
 | **Workflow Automation** | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
 
@@ -77,7 +77,7 @@ I am building a focused collection of small, useful, polished open-source tools 
 - financial news reasoning and evaluation
 - provider-agnostic model evaluation
 - reports, leaderboards, and reproducible benchmark workflows
-- safer AI-assisted development workflows, repo audits, and reusable agent skill packs
+- safer AI-assisted development workflows, repo audits, AI coding agent task benchmarks, and reusable agent skill packs
 - sourcing and procurement workflows
 - browser-based automation
 - local-first AI applications
