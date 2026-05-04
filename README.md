@@ -1,37 +1,43 @@
 # Stephen Y. Wilson
 
-Founder of **Catalayer** — building practical open-source AI tools for market intelligence, financial news reasoning, AI evaluation, safer AI-assisted development, and decision workflows.
+Founder of **Catalayer** — building practical open-source AI tools for market intelligence, financial news reasoning, model evaluation, and safer AI-assisted development.
 
 I focus on software that helps people turn noisy information into clearer research, safer automation, faster workflows, and better operational decisions.
 
 ---
 
-## Featured Open Source Projects
+## Open Source Tracks
 
-My open-source work is organized around two tracks: **AI market intelligence** and **safer AI-assisted development**.  
-**News2SignalBench**, **SignalEvalRunner**, and **News2SignalLab** form a financial news-to-signal evaluation stack.  
-**RepoBlackbox** and **AgentSkillKit** form a lightweight workflow toolkit for safer AI-assisted development.
+My open-source work is organized around two main tracks:
 
-| Project | What it does |
+| Track | Focus |
 |---|---|
-| [MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer) | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
-| [News2SignalBench](https://github.com/stephenywilson/News2SignalBench) | Benchmark foundation for evaluating whether AI models can convert financial news into structured market signals |
-| [SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner) | Provider-agnostic CLI runner that executes News2SignalBench-style evaluations and exports reports and static leaderboards |
-| [News2SignalLab](https://github.com/stephenywilson/News2SignalLab) | Complete local-first lab for financial news-to-signal evaluation, reports, static leaderboards, and synthetic streams |
-| [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox) | Lightweight safety and evaluation layer for Claude Code, Codex, Cursor, and other AI coding agents |
-| [AgentSkillKit](https://github.com/stephenywilson/AgentSkillKit) | Reusable task packs and workflow skills for Claude Code, Codex, Cursor, and AI coding agents |
+| **Market Intelligence** | AI-assisted market research, financial news reasoning, signal evaluation, and decision workflows |
+| **AI Agent Tooling** | Safer Claude Code, Codex, Cursor, Cline, MCP, and AI coding-agent workflows |
 
 ---
 
-## News2Signal Evaluation Stack
+## Featured Systems
 
-The News2Signal projects are designed to evaluate whether AI systems can turn financial news into structured market-relevant signals.
+| System | Projects | What it does |
+|---|---|---|
+| **MarketLayer by Catalayer** | [MarketLayer](https://github.com/stephenywilson/MarketLayer) | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
+| **News2Signal Stack** | [News2SignalLab](https://github.com/stephenywilson/News2SignalLab), [News2SignalBench](https://github.com/stephenywilson/News2SignalBench), [SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner) | Local-first evaluation stack for testing whether AI systems can turn financial news into structured market-relevant signals |
+| **AI Agent Tools** | [MCP-Doctor](https://github.com/stephenywilson/MCP-Doctor), [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox), [AgentSkillKit](https://github.com/stephenywilson/AgentSkillKit) | Diagnostics, safety layers, repo audits, reusable task packs, and workflow tools for AI-assisted development |
 
-| Component | Role |
+---
+
+## Selected Projects
+
+| Project | What it does |
 |---|---|
-| **[News2SignalLab](https://github.com/stephenywilson/News2SignalLab)** | Full local lab that combines evaluation workflow, reports, leaderboards, and synthetic market-news streams |
-| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for financial news-to-signal reasoning |
-| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner for model evaluation, reports, and static leaderboards |
+| **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, with news, signals, watchlists, and decision workflows |
+| **[News2SignalLab](https://github.com/stephenywilson/News2SignalLab)** | Complete local lab for financial news-to-signal evaluation, reports, static leaderboards, and synthetic market-news streams |
+| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for evaluating financial news-to-signal reasoning in AI models |
+| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner for financial news-to-signal model evaluation, reports, and static leaderboards |
+| **[MCP-Doctor](https://github.com/stephenywilson/MCP-Doctor)** | Diagnose and fix broken MCP servers for Claude Desktop, Cursor, VS Code, Cline, and other AI tools |
+| **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety, evaluation, and workflow layer for Claude Code, Codex, Cursor, and other AI coding agents |
+| **[AgentSkillKit](https://github.com/stephenywilson/AgentSkillKit)** | Reusable task packs and workflow skills for Claude Code, Codex, Cursor, and AI coding agents |
 
 ---
 
@@ -42,10 +48,9 @@ The News2Signal projects are designed to evaluate whether AI systems can turn fi
 | **Market Intelligence** | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
 | **Financial News Reasoning** | Tools and benchmarks for turning financial news into structured events, sentiment, and market-relevant signals |
 | **AI Evaluation** | Benchmarks, datasets, runners, reports, and leaderboards for testing model behavior and signal quality |
-| **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, provider configuration, and decision-support interfaces |
-| **AI Coding Safety** | Guardrails, repo protection, audit reports, task benchmarks, reusable agent skills, and workflow safety layers for AI coding agents |
+| **AI Agent Infrastructure** | MCP diagnostics, local-first AI workflows, provider configuration, reusable task packs, and workflow automation |
+| **AI Coding Safety** | Repo protection, audit reports, guardrails, task benchmarks, and safer workflows for AI coding agents |
 | **Sourcing Automation** | Supplier comparison, RFQ workflows, landed cost analysis, procurement templates, and vendor decision systems |
-| **Workflow Automation** | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
 
 ---
 
@@ -76,10 +81,10 @@ I am building a focused collection of small, useful, polished open-source tools 
 - AI-assisted market research
 - financial news reasoning and evaluation
 - provider-agnostic model evaluation
-- reports, leaderboards, and reproducible benchmark workflows
-- safer AI-assisted development workflows, repo audits, AI coding agent task benchmarks, and reusable agent skill packs
+- MCP diagnostics and AI tool troubleshooting
+- safer AI-assisted development workflows
+- repo audits, workflow safety layers, and reusable agent skills
 - sourcing and procurement workflows
-- browser-based automation
 - local-first AI applications
 - practical decision systems for independent builders and small teams
 
