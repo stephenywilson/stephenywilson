@@ -1,6 +1,6 @@
 # Stephen Y. Wilson
 
-Founder of **Catalayer** — building practical open-source AI tools for market intelligence, financial news reasoning, AI evaluation, sourcing automation, and decision workflows.
+Founder of **Catalayer** — building practical open-source AI tools for market intelligence, financial news reasoning, AI evaluation, safer AI-assisted development, and decision workflows.
 
 I focus on software that helps people turn noisy information into clearer research, safer automation, faster workflows, and better operational decisions.
 
@@ -8,15 +8,25 @@ I focus on software that helps people turn noisy information into clearer resear
 
 ## Featured Open Source Projects
 
-My open-source work is organized around two tracks: **AI market intelligence** and **safer AI-assisted development**.  
-**News2SignalBench** and **SignalEvalRunner** form a paired evaluation stack for financial news-to-signal reasoning.
+My open-source work is organized around two tracks: **market intelligence** and **safer AI-assisted development**.
 
 | Project | What it does |
 |---|---|
-| [MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer) | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
-| [News2SignalBench](https://github.com/stephenywilson/News2SignalBench) | Benchmark foundation for evaluating whether AI models can convert financial news into structured market signals |
-| [SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner) | Provider-agnostic CLI runner that executes News2SignalBench-style evaluations and exports reports and static leaderboards |
-| [RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox) | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
+| **[MarketLayer by Catalayer](https://github.com/stephenywilson/MarketLayer)** | Open-source AI market research console for US stocks, built around news, signals, watchlists, and decision workflows |
+| **[News2SignalLab](https://github.com/stephenywilson/News2SignalLab)** | Complete local lab for financial news-to-signal evaluation, reports, static leaderboards, and synthetic market-news streams |
+| **[RepoBlackbox](https://github.com/stephenywilson/RepoBlackbox)** | Lightweight safety layer for Claude Code, Codex, Cursor, and other AI coding agents |
+
+---
+
+## News2Signal Evaluation Stack
+
+The News2Signal projects are designed to evaluate whether AI systems can turn financial news into structured market-relevant signals.
+
+| Component | Role |
+|---|---|
+| **[News2SignalLab](https://github.com/stephenywilson/News2SignalLab)** | Full local lab that combines evaluation workflow, reports, leaderboards, and synthetic market-news streams |
+| **[News2SignalBench](https://github.com/stephenywilson/News2SignalBench)** | Open benchmark for financial news-to-signal reasoning |
+| **[SignalEvalRunner](https://github.com/stephenywilson/SignalEvalRunner)** | Provider-agnostic CLI runner for model evaluation, reports, and static leaderboards |
 
 ---
 
@@ -24,21 +34,23 @@ My open-source work is organized around two tracks: **AI market intelligence** a
 
 | Area | What I Build |
 |---|---|
-| Market Intelligence | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
-| Financial News Reasoning | Benchmarks, datasets, runners, reports, leaderboards, and evaluation tools for converting financial news into structured signals |
-| AI Infrastructure | Local-first AI apps, bring-your-own-provider workflows, model evaluation, and decision-support interfaces |
-| AI Coding Safety | Guardrails, repo protection, audit reports, and workflow safety layers for AI coding agents |
-| Workflow Automation | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
+| **Market Intelligence** | News analysis, watchlists, market context, research signals, and AI-assisted market workflows |
+| **Financial News Reasoning** | Tools and benchmarks for turning financial news into structured events, sentiment, and market-relevant signals |
+| **AI Evaluation** | Benchmarks, datasets, runners, reports, and leaderboards for testing model behavior and signal quality |
+| **AI Infrastructure** | Local-first AI apps, bring-your-own-provider workflows, provider configuration, and decision-support interfaces |
+| **AI Coding Safety** | Guardrails, repo protection, audit reports, and workflow safety layers for AI coding agents |
+| **Sourcing Automation** | Supplier comparison, RFQ workflows, landed cost analysis, procurement templates, and vendor decision systems |
+| **Workflow Automation** | Chrome extensions, sourcing tools, dashboards, and lightweight software for real business workflows |
 
 ---
 
 ## About Catalayer
 
-Catalayer is a practical intelligence layer for market analysis, sourcing automation, and decision workflows.
+**Catalayer** is a practical intelligence layer for market analysis, sourcing automation, and decision workflows.
 
 The open-source projects here are lightweight, transparent versions of tools and ideas connected to the broader Catalayer ecosystem.
 
-Catalayer AI is the reasoning and analysis layer behind the platform, designed to support structured analysis, financial news understanding, market context, and workflow intelligence.
+**Catalayer AI** is the reasoning and analysis layer behind the platform, designed to support structured analysis, financial news understanding, market context, and workflow intelligence.
 
 ---
 
@@ -58,8 +70,11 @@ I am building a focused collection of small, useful, polished open-source tools 
 
 - AI-assisted market research
 - financial news reasoning and evaluation
-- provider-agnostic model evaluation, reports, and leaderboards
-- safer AI-assisted development workflows
+- provider-agnostic model evaluation
+- reports, leaderboards, and reproducible benchmark workflows
+- safer AI-assisted development
+- sourcing and procurement workflows
+- browser-based automation
 - local-first AI applications
 - practical decision systems for independent builders and small teams
 
